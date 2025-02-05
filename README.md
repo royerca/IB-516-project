@@ -7,10 +7,10 @@ Repository to include:
 - Settlement plots script (including species specific plots)
 
 General Workflow:
--Create recruitment table(legacy_code_recruitment_table) using raw data imported from Access Database
--Use recruitment table to generate:
-    -settlement plots
-    -species specific recruitment table
+- Create recruitment table(legacy_code_recruitment_table) using raw data imported from Access Database
+- Use recruitment table to generate:
+    - settlement plots
+    - species specific recruitment table
     -2021 ODFW Synthesis Report plots
--Use species specific recruitment table to:
+- Use species specific recruitment table to:
     - Generate species specific settlement plots for rockfish complexes
