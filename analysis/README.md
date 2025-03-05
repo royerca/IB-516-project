@@ -4,11 +4,11 @@ The analysis subdirectory includes R scripts for:
           - input = ../raw_data/wt.txt
           - output = Recruitment2024.csv
   - Species specific settlement plots (OYTB and QGBCC)
-      - uses data_prep/species_recruitment_CR.R
+      - uses data_prep/OYTB_recruitment_CR.R
           - input = Recruitment2024.csv
-          - output = OYTB_Recruitment2024.csv
+          - output = OYTB_Recruitment2024.csv(rename depending on complex)
   - 2021 ODFW synthesis report figures
           - input = Recruitment2024.csv
           - output = ../final_figs/synthesis_report_figs
 
-QGBC analysis TO BE CONTINUED
+
