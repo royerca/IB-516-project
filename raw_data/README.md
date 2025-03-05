@@ -15,6 +15,6 @@ QGBC workflow:
     wget -r -c -nH --cut-dirs=1 --no-parent --reject "index.html*" https://gc3fstorage.uoregon.edu/LPTBD/8636/
 3) Move through ../data_prep/QGBCC to create SAM files, convert them to BAM, and alignment stats from each project
 4) Move through ../analysis/QGBCC in Rstudio for the assignment analysis to generate the final list of samples and their IDs.
-5) wt.txt is the most recent data download from the Microsoft Access Database.
+5) wt.txt is the most recent data download from the Microsoft Access Database.  
   -used to create a Recruitment2024.csv table (data_prep/legacy_recruitment_table.R)
 6) Use Recruitment2024.csv table in the species specific_settlement_plots.R to create figures for settlement of the QGBCC Rockfish complex
